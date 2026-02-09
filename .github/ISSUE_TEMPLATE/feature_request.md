@@ -1,3 +1,10 @@
+---
+name: ✨ Feature Request
+about: Suggest an idea or enhancement
+title: "[Feature]: "
+labels: enhancement
+assignees: ""
+---
 ## 📌 Issue Type
 - [ ] Feature Request
 - [ ] Bug Report
