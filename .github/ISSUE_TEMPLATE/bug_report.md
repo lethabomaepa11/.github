@@ -1,3 +1,12 @@
+---
+name: 🐛 Bug Report
+about: Report a bug to help us improve
+title: "[Bug]: "
+labels: bug
+assignees: ""
+---
+
+
 ## 🐞 Describe the bug
 <!-- A clear and concise description of what the bug is. -->
 
